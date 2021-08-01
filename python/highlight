@@ -14,5 +14,6 @@ pip and virtualenv for dependency and virtual environment management.
 Rationale - https://realpython.com/pipenv-guide/#problems-that-pipenv-solves
 
 3. Bundle the sample commands and runtime environment in a docker file
+https://github.com/amritinterest/amrit-interest/blob/main/python/Dockerfile
 
 Rationale - Fast, consistent delivery of the sample commands
