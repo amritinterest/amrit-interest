@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = false
+name = "pypi"
+
+[packages]
+click = ">=7.0"
+coloredlogs = ">=10.0"
+requests = ">= 2.20.0"
+verboselogs = ">=1.7"
+jinja2 = "*"
+pyteamcity = ">= v0.1.0"
+demo-cli = {editable = true,path = "."}
+
+[dev-packages]
+pylint = "*"
+
+[requires]
+python_version = "3.6"
